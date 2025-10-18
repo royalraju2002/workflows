@@ -31,7 +31,12 @@ export default function Home() {
           height={38}
           priority
         />
-        <h1>Hello, World</h1>
+        <ol>
+          <li>
+            Get started by editing <code>apps/docs/app/page.tsx</code>
+          </li>
+          <li>Save and see your changes instantly.</li>
+        </ol>
 
         <div className={styles.ctas}>
           <a
