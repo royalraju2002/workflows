@@ -31,7 +31,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <h1>Hello, Wordl</h1>
+        <h1>Hello, World</h1>
 
         <div className={styles.ctas}>
           <a
